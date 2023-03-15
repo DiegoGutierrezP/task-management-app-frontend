@@ -8,4 +8,4 @@ This is the fontend project oh the Task Management App. React + Typescript
      - copy .env.example and rename as .env
      - replace value of variable with your backend route api
         - example : VITE_BACKEND_API=http://127.0.0.1:8000/api
-4. exce <code>npm run serve</code>
+4. exec <code>npm run dev</code>
